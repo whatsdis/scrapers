@@ -44,6 +44,7 @@ Please help maintain alphabetical order.
 - [Venom](#uipath) [(link)](https://venom.preferred.ai/)
 - [Web Robots](#web-robots) [(link)](https://webrobots.io)
 - [Web Scraper](#web-scraper) [(link)](http://webscraper.io/)
+- [Web Scraping Language](#web-scraping-language) [(link)](https://github.com/whatsdis/web-scraping-language)
 - [WrapAPI](#wrapapi) [(link)](https://wrapapi.com)
 - [X-Ray](#x-ray) [(link)](https://github.com/lapwinglabs/x-ray)
 
@@ -397,6 +398,14 @@ and recorder.
 **Description**: Extension that downloads websites and turns them into
 structured data. Data is selected by element or by specialised selectors (e.g.,
 for tables).
+
+**Applicable Language(s)**
+
+---
+
+### [Web Scraping Language](https://github.com/whatsdis/web-scraping-language)
+
+**Description**: Simple syntax called WSL to write variety of web crawlers and scrapers.
 
 **Applicable Language(s)**
 
